@@ -16,7 +16,7 @@ I do some work for the [KDE project][kde] in order to achieve this.
 
 ### Contact me
 
-FFind me on [Twitter][Twitter] / [Github][github] or just say `Hello` at [subdiff@gmail.com](subdiff@gmail.com).
+Find me on [Twitter][Twitter] / [Github][github] or just say `Hello` at [subdiff@gmail.com](subdiff@gmail.com).
 
 [kde]: https://www.kde.org/
 [twitter]: https://twitter.com/subdiff
