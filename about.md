@@ -10,7 +10,7 @@ Hi, thank you for visiting my little pet project blog.
 
 My name is Roman Gilg. I'm from Germany and interested in many different things. Some of them I hope to put up on this blog.
 
-For the next few months I'll primarily write on my master thesis in mathematics. Besides that I'm trying to get better at programming as a newcomer in practical terms.
+My current life goals: For the next few months I'll primarily write on my master thesis in mathematics. Besides that I'm trying to get better at programming as a newcomer in practical terms.
 
 I do some work for the [KDE project][kde] in order to achieve this.
 

@@ -40,7 +40,7 @@ theme_settings:
 markdown: kramdown
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Pagination config
 paginate: 5
