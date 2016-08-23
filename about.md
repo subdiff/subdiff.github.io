@@ -2,23 +2,22 @@
 layout: page
 title: About me
 permalink: /about/
-banner_image: sample-banner-image-2.jpg
+banner_image: about-me-banner.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Hi, thank you for visiting my little pet project blog.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+My name is Roman Gilg. I'm from Germany and interested in many different things. Some of them I hope to put up on this blog.
+
+For the next few months I'll primarily write on my master thesis in mathematics. Besides that I'm trying to get better at programming as a newcomer in practical terms.
+
+I do some work for the [KDE project][kde] in order to achieve this.
 
 ### Contact me
 
-Say `Hello` at gayanvirajith@gmail.com or find
-me on
+FFind me on [Twitter][Twitter] / [Github][github] or just say `Hello` at [subdiff@gmail.com](subdiff@gmail.com).
 
----
-
-{% include social.html %}
-
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
+[kde]: https://www.kde.org/
+[twitter]: https://twitter.com/subdiff
+[github]: https://github.com/subdiff

@@ -237,6 +237,7 @@ img {
 
 .header .header-logo {
   min-height: 44px;
+  min-width: 44px;
   padding-right: 10px;
   @include column(1);
   text-align: center;

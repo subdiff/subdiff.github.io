@@ -2,7 +2,7 @@
 layout: page
 title: Blog Archive
 permalink: /archive/
-banner_image: sample-banner-image-3.jpg
+banner_image: archive-banner.jpg
 ---
 
 <div>
@@ -17,5 +17,7 @@ banner_image: sample-banner-image-3.jpg
       {% capture year %}{{currentyear}}{% endcapture %} 
     {% endif %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-{% endfor %}
+  {% endfor %}
+<!---
 </div>
+--->
