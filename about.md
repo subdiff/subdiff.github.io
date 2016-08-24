@@ -6,7 +6,7 @@ banner_image: about-me-banner.jpg
 banner_image_alt: About me
 ---
 
-Hi, thank you for visiting my little pet project blog.
+Hi, thank you for visiting my small yet unbelievable ambitious blog project.
 
 My name is Roman Gilg. I'm from Germany and interested in many different things. Some of them I hope to put up on this blog.
 
