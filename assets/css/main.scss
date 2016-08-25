@@ -560,6 +560,16 @@ img {
   }
 }
 
+/* Meta info in archive */
+.archive-meta {
+  color: $gray-light;
+  padding: 1.5em 0 2em 0;
+  letter-spacing: 1px;
+  @include MQ(M) {
+    font-size: 12px;    
+  }
+}
+
 /* Related post articles */
 .related-posts {
   padding: 1em 0;
