@@ -5,7 +5,7 @@ permalink: /archive/chron
 banner_image: archive-banner.jpg
 ---
 <div>
-<a href="/archive/tags">View by topics</a>
+<a href="{{site.url | append: site.baseurl}}/archive/tags">View by topics</a>
 </div>
 
 ### Chronological
@@ -19,7 +19,7 @@ banner_image: archive-banner.jpg
         {% capture year %}{{currentyear}}{% endcapture %} 
       {% endif %}
       <li>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="archive-meta"> - {{ post.tags | join: ", " }} - {{ post.date | date: "%B %-d, %Y"  }}</span>
+        <a href="{{ post.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url |  }}">{{ post.title }}</a> <span class="archive-meta"> - {{ post.tags | join: ", " }} - {{ post.date | date: "%B %-d, %Y"  }}</span>
       </li>
     {% endfor %}
   </ul>

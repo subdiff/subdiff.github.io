@@ -5,7 +5,7 @@ permalink: /archive/tags
 banner_image: archive-banner.jpg
 ---
 <div>
-<a href="/archive/chron">View by dates</a>
+<a href="{{site.url | append: site.baseurl}}/archive/chron">View by dates</a>
 </div>
 
 ### Tags
@@ -21,7 +21,7 @@ banner_image: archive-banner.jpg
   {% for post in posts %}
     {% if post.tags contains t %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url |  }}">{{ post.title }}</a>
         <span class="archive-meta"> - {{ post.tags | join: ", " }} - {{ post.date | date: "%B %-d, %Y"  }}</span>
       </li>
     {% endif %}
