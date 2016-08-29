@@ -6,7 +6,7 @@ email: subdiff@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Mathematician by choice, programmer by opportunity
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "www.subdiff.de" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 author: "Roman Gilg"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
