@@ -36,7 +36,7 @@ So quite something for a nocive like me. In general I'm pleased with what I've a
 [lwn-atomic1]: https://lwn.net/Articles/653071/
 [lwn-atomic2]: https://lwn.net/Articles/653466/
 [weston-pull]: https://lists.freedesktop.org/archives/wayland-devel/2015-June/022848.html
-[weston-git]: https://git.collabora.com/cgit/user/daniels/libdrm.git
+[weston-git]: https://git.collabora.com/cgit/user/daniels/weston.git/?h=wip/atomic
 [phab-ams]: https://phabricator.kde.org/D2370
 [kte-batch]: https://git.reviewboard.kde.org/r/128850/
 [kte-searchbar]: https://git.reviewboard.kde.org/r/128894/
