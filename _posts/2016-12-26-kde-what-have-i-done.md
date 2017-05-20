@@ -3,7 +3,7 @@ layout: post
 title:  "KDE! What have I done?"
 date:   2016-12-26 12:00:00
 tags:
-  - programming
+  - coding
   - kde
   - plasma
   - wayland
