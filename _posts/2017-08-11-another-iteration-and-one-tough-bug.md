@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Another iteration and one tough bug"
-date:   2017-08-04 23:30:00
+date:   2017-08-11 23:30:00
 tags:
   - coding
   - gsoc
