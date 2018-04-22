@@ -696,3 +696,10 @@ img {
   img { float:left; margin-right: 1em; }
   ul { margin-bottom: 0; }
 }
+
+/* To center images */
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
